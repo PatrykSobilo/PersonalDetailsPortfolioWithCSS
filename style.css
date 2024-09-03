@@ -1,0 +1,22 @@
+.header {
+  color: wheat;
+  background-image: url(./resources/Zrzut\ ekranu\ 2024-09-03\ 184332.png);
+}
+
+.zdjeciePatryk {
+  border-radius: 50%;
+  margin-bottom: 1rem;
+}
+
+.education {
+  height: 30rem;
+}
+
+.skills {
+  background-color: #0B409C;
+  color: wheat;
+}
+
+.skillsParagraph {
+  color: rgb(156, 150, 137)
+}
